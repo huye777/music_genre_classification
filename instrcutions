@@ -1,0 +1,7 @@
+1.Dataset Preparation  
+  Uploading the GTZAN Dataset: To begin training, please ensure that the GTZAN dataset is uploaded to the file directory.
+2.Setting Up for Predictions
+  Creating a New Audio File:
+    Create a new file and name it new_audio.
+    In your code, locate the line that specifies the file path and modify it to file_path = 'new_audio/q1.wav'.
+    Rename your song file to q1.wav and place it in the new_audio directory.
